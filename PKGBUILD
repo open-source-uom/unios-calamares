@@ -9,7 +9,6 @@ license=('GPL3')
 
 depends=(
     'boost-libs'
-    'ckbcomp'
     'hwinfo'
     'kconfig'
     'kcoreaddons'
@@ -27,7 +26,6 @@ depends=(
     'solid'
     'yaml-cpp'
 )
-
 makedepends=(
     'boost'
     'cmake'

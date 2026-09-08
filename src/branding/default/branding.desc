@@ -203,7 +203,10 @@ style:
 #   slideshow:               "show.qml"
 # To configure images, like the filenames (here, as an inline list):
 #   slideshow: [ "/etc/calamares/slideshow/0.png", "/etc/logo.png" ]
-slideshow:               "show.qml"
+slideshow:
+    - "slide1.png"
+    - "slide2.png"
+    - "slide3.png"
 
 # There are two available APIs for a QML slideshow:
 #  - 1 (the default) loads the entire slideshow when the installation-

@@ -121,18 +121,18 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "${NAME}"
-    shortProductName:    Generic
-    version:             2023.3 LTS
-    shortVersion:        2023.3
-    versionedName:       Fancy GNU/Linux 2023.3 LTS "Venomous Vole"
-    shortVersionedName:  FancyGL 2023.3
-    bootloaderEntryName: FancyGL
-    productUrl:          https://calamares.io/
-    supportUrl:          https://codeberg.org/Calamares/calamares/wiki
-    knownIssuesUrl:      https://codeberg.org/Calamares/calamares/issues
-    releaseNotesUrl:     https://calamares.io/news/
-    donateUrl:           https://docs.codeberg.org/improving-codeberg/donate/
+    productName:         "UniOS"
+    shortProductName:    "UniOS"
+    version:             "1.0"
+    shortVersion:        "1.0"
+    versionedName:       "UniOS 1.0 Academic"
+    shortVersionedName:  "UniOS 1.0"
+    bootloaderEntryName: "UniOS"
+    productUrl:          "https://github.com/open-source-uom"
+    supportUrl:          "https://github.com/open-source-uom"
+    knownIssuesUrl:      "https://github.com/open-source-uom"
+    releaseNotesUrl:     "https://github.com/open-source-uom"
+    donateUrl:           "https://github.com/open-source-uom"
 
 # These images are loaded from the branding module directory.
 #
@@ -183,7 +183,7 @@ style:
    SidebarBackground:        "#292F34"
    SidebarText:              "#FFFFFF"
    SidebarTextCurrent:       "#292F34"
-   SidebarBackgroundCurrent: "#D35400"
+   SidebarBackgroundCurrent: "#c87cb8"
 
 ### SLIDESHOW
 #

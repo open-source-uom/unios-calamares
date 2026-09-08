@@ -125,7 +125,7 @@ strings:
     shortProductName:    "UniOS"
     version:             "1.0"
     shortVersion:        "1.0"
-    versionedName:       "UniOS 1.0 Academic"
+    versionedName:       "UniOS 1.0 Academic Raccoon"
     shortVersionedName:  "UniOS 1.0"
     bootloaderEntryName: "UniOS"
     productUrl:          "https://github.com/open-source-uom"
